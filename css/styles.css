@@ -6,7 +6,8 @@
     min-height: 450px;
     height: 100vh;
     margin: 0;
-    background: radial-gradient(ellipse farthest-corner at center top, #f39264 0%, #f2606f 100%);
+    background: rgb(63,161,251);
+    background: radial-gradient(circle, rgba(63,161,251,1) 0%, rgba(0,212,255,1) 23%);
     color: #fff;
     font-family: 'Nunito', serif;
   }
