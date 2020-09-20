@@ -14,7 +14,7 @@ const taskTemplate = (todo) =>
                     <span class="check"></span>
                     ${todo}
                   </label>
-                  <i class="far fa-trash-alt delete"></i>
+                  <i class="fa fa-trash delete"></i>
                 </li>`
   todoList.innerHTML += html;
 };
